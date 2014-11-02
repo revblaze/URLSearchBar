@@ -4,6 +4,9 @@ URLSearchBar is a free, open source project that combines the power of informal 
 
 ## Features
 - iPhone and iPad support
+- URL / Search term detection
+- Informal web address compatibility
+- Universal search engine compatibility
 
 ## Requirements
 - Requires iOS 7.0 or later
