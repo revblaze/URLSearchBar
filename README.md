@@ -5,8 +5,9 @@ URLSearchBar is a free, open source project that combines the power of informal 
 ## Features
 - iPhone and iPad support
 - URL / Search term detection
-- Informal web address compatibility
-- Universal search engine compatibility
+- Informal web address compatibile
+- Universal search engine compatibile
+- UIWebView and WKWebView compatibile
 
 ## Usage
 1. Copy URLSearchBar classes into existing project
@@ -33,7 +34,7 @@ Refer to the Demo project if you're having trouble setting up the URLSearchBar.
 
 ## MIT License
 
-Copyright © 2014 Justin Bush. All rights reserved.
+Copyright © 2017 Justin Bush. All rights reserved.
 
 ```
 Permission is hereby granted, free of charge, to any person obtaining a copy
